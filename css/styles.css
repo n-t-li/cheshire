@@ -672,10 +672,10 @@ h3{
 	z-index: 1;
 }
 .map_commercial{
-	background: url("../images/_map_commercial.jpg") center center;
+	background: url("../images/map_commercial.jpg") center center;
 }
 .block_video{
-	background: url("../images/_video.jpg") center center;
+	background: url("../images/video.jpg") center center;
 }
 .block_video iframe{
 	min-height: 300px;
